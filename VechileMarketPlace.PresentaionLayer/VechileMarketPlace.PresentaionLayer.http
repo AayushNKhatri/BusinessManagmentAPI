@@ -1,0 +1,6 @@
+@VechileMarketPlace.PresentaionLayer_HostAddress = http://localhost:5123
+
+GET {{VechileMarketPlace.PresentaionLayer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
