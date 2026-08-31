@@ -28,7 +28,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\VechileMarketplace.DomainLayer\BusinessManagment.DomainLayer.csproj" />
+    <ProjectReference Include="..\BusinessManagment.ApplicationLayer\BusinessManagment.ApplicationLayer.csproj" />
+    <ProjectReference Include="..\BusinessManagment.DomainLayer\BusinessManagment.DomainLayer.csproj" />
   </ItemGroup>
 
 </Project>

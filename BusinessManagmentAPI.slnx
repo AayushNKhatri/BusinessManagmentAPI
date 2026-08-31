@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="VechileMarketplace.ApplicationLayer/BusinessManagment.ApplicationLayer.csproj" Id="840ff62f-d684-4ca2-a695-7e0c265d51bd" />
-  <Project Path="VechileMarketplace.DomainLayer/BusinessManagment.DomainLayer.csproj" Id="b12e8bae-59ca-4c89-8f3f-dddd42ec03f2" />
-  <Project Path="VechileMarketplace.InfastructrueLayer/BusinessManagment.InfastructrueLayer.csproj" Id="b86cc60c-0ad6-4fd9-b090-c9f6ea9d3905" />
-  <Project Path="VechileMarketPlace.PresentaionLayer/BusinessManagment.PresentaionLayer.csproj" />
+  <Project Path="BusinessManagment.ApplicationLayer/BusinessManagment.ApplicationLayer.csproj" Id="840ff62f-d684-4ca2-a695-7e0c265d51bd" />
+  <Project Path="BusinessManagment.DomainLayer/BusinessManagment.DomainLayer.csproj" Id="b12e8bae-59ca-4c89-8f3f-dddd42ec03f2" />
+  <Project Path="BusinessManagment.InfastructrueLayer/BusinessManagment.InfastructrueLayer.csproj" Id="b86cc60c-0ad6-4fd9-b090-c9f6ea9d3905" />
+  <Project Path="BusinessManagment.PresentaionLayer/BusinessManagment.PresentaionLayer.csproj" />
 </Solution>
